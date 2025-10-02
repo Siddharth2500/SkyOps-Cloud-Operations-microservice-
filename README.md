@@ -177,12 +177,7 @@ LinkedIn: siddharth-raut-
 📝 License
 MIT © 2025 Siddharth Raut
 
-yaml
-Copy code
 
----
-
-If you want, I can now generate the **third project (KubePulse — Kubernetes + monitoring)** in the same format: one Colab code block + one README block.
 
 
 
