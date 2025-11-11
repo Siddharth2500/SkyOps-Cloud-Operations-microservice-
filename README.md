@@ -14,7 +14,7 @@
 - **/simulate-cpu** to generate controlled CPU load (great for HPA demos)
 - JSON logs with request IDs for traceability
 
-----------
+---------------
 
 ## 🛠 Tech & Languages
 
