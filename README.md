@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326CE5?logo=kubernetes)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=github-actions)
-
+---
 **SkyOps** is a Python **FastAPI** service focused on operational excellence:
 - Health/Readiness endpoints for containers
 - **/status** returns CPU/RAM + environment info
