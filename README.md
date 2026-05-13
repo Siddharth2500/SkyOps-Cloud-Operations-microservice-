@@ -27,7 +27,7 @@
 | Container | **Docker** | Build & ship |
 | Orchestrator | **Kubernetes** | Probes, scaling, services |
 
-------
+---------
 
 ## 🌐 Architecture
 
