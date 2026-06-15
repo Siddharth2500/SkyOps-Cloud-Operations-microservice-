@@ -15,7 +15,6 @@
 - JSON logs with request IDs for traceability
 
 --------------------------------------
---
 ## 🛠 Tech & Languages
 
 | Layer | Tech | Notes |
@@ -27,7 +26,7 @@
 | Container | **Docker** | Build & ship |
 | Orchestrator | **Kubernetes** | Probes, scaling, services |
 
----------
+-----------
 
 ## 🌐 Architecture
 
