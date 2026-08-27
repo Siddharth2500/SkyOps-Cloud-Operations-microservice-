@@ -40,7 +40,7 @@ Flow:
 3. **Prometheus** scrapes `/metrics`  
 4. Deployed as **Docker** container to **Kubernetes** (Deployment + Service)
 
-------------------
+---------------------
 
 ## 📦 Repository Structure
 
